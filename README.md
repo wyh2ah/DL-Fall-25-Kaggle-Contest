@@ -1,4 +1,4 @@
-# `main.py` is our final version for highest accuracy.
+## `main.py` is our final version for highest accuracy.
 
 ## Link to model weights:
 
