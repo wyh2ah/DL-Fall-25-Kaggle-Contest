@@ -6,4 +6,6 @@
 
 ## `finetune.py` is for
 
+## `wrong_case.yaml` is the collection of the wrong predictions.
+
 
