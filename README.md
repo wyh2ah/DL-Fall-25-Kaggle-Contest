@@ -7,7 +7,8 @@ You can find our trained model's weights at [here](https://drive.google.com/file
 
 ## `prompt.ipynb` is for tuning the best prompt.
 
-## `finetune.py` is for
+## `finetune.py`：
+We attempted to fine-tune the model using the unlabeled test split of the test dataset. However, the results were unsuccessful, and this experiment is not related to our final model.
 
 ## `wrong_case.yaml` is the collection of the wrong predictions.
 
